@@ -22,5 +22,10 @@ This is an easy fullstack project of a to-do app using MERN stack
 
 <br>
 
+# Video
+- [Link](https://youtube.com/playlist?list=PL-aX2gJc0HohQ6t-WvehhP3Z-utxdBgyB&feature=shared)
+
+<br>
+
 # Author ✒️
 - [Ricardo Robledo](https://github.com/RicardoRobledo/)
