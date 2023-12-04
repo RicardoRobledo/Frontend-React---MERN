@@ -13,7 +13,7 @@ This is an easy fullstack project of a to-do app using MERN stack
 
 <br>
 
-# Made up with 🛠️
+## Made up with 🛠️
 - react
 - dotenv
 - react-hook-form
@@ -22,10 +22,10 @@ This is an easy fullstack project of a to-do app using MERN stack
 
 <br>
 
-# Video
+## Video
 - [Link](https://youtube.com/playlist?list=PL-aX2gJc0HohQ6t-WvehhP3Z-utxdBgyB&feature=shared)
 
 <br>
 
-# Author ✒️
+## Author ✒️
 - [Ricardo Robledo](https://github.com/RicardoRobledo/)
